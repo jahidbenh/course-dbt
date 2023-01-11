@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: stg_adresses
+    description: To complete
+
+  - name: stg_events
+    description: To complete
+
+  - name: stg_order_items
+    description: To complete
+
+  - name: stg_orders
+    description: To complete
+
+  - name: stg_products
+    description: To complete
+
+  - name: stg_promos
+    description: To complete
+
+  - name: stg_users
+    description: To complete
